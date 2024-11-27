@@ -6,7 +6,6 @@
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/mahmudashif)  
 - 💬 Ask me about **React, Next.js, JavaScript, HTML, CSS, Tailwind**  
 - 📫 How to reach me: **mdamahmud2000@gmail.com**  
-- 🖥️ Check out my portfolio: [My Portfolio](https://portfolio-ashif-mahmuds-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -75,13 +74,12 @@
   </p>
 </div>
 
-<h3 align="center">GitHub Contribution Graph 📊</h3>
-
-<!-- Wrapper for the contribution graph with animation -->
-<div class="stats-wrapper">
-  <p align="center" class="animated-stats">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark" alt="Ashif's GitHub Contribution Graph" width="600" height="350" />
-  </p>
-</div>
-
 <h3 align="center">Let's connect and grow together! 🚀</h3>
+
+![Ashif's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark)
+
+<h2 align="center">✨ Thank You for Visiting! ✨</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Thank You" width="300" />
+</p>
+<p align="center">Feel free to connect with me and explore my work! 🚀</p>
