@@ -94,55 +94,65 @@
 
 ### 🚀 Explore my portfolio to check out the latest projects, technologies, and design trends I’ve worked with. Feel free to browse through my work!
 
-<!-- Portfolio Section -->
-<h3 align="center">My Portfolio</h3>
-<p align="center">
-  <a href="https://portfolio-ashif-mahmuds-projects.vercel.app/" target="_blank">
-    <img src="https://via.placeholder.com/600x400" alt="Portfolio Preview" width="600" />
-  </a>
-</p>
-
-<!-- Animation for the "Thank You" message after Portfolio -->
-<h3 class="thank-you-message">Thank you for visiting my profile! 🙏</h3>
-
-<!-- CSS for the Animation -->
-<style>
-  /* Initial hidden state for the "Thank You" message */
-  .thank-you-message {
-    display: none;
-    font-size: 24px;
-    font-weight: bold;
-    color: #4CAF50;
-    text-align: center;
-    margin-top: 30px;
-    animation: fadeInUp 3s ease-out 1 forwards; /* Fade-in and slide-up animation */
-  }
-
-  /* Keyframes for fade-in and slide-up animation */
-  @keyframes fadeInUp {
-    0% {
-      opacity: 0;
-      transform: translateY(20px);
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <style>
+    /* Initial hidden state for the "Thank You" message */
+    .thank-you-message {
+      display: none;
+      font-size: 24px;
+      font-weight: bold;
+      color: #4CAF50;
+      text-align: center;
+      margin-top: 30px;
+      animation: fadeInUp 3s ease-out 1 forwards;
     }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
+
+    /* Keyframes for fade-in and slide-up animation */
+    @keyframes fadeInUp {
+      0% {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
     }
-  }
 
-  /* Add delay for the animation to start after the portfolio is shown */
-  .thank-you-message {
-    animation-delay: 2s;  /* Delay to show after the portfolio section */
-  }
-</style>
+    /* Add delay for the animation to start after the portfolio is shown */
+    .thank-you-message {
+      animation-delay: 2s;  /* Delay to show after the portfolio section */
+    }
+  </style>
+</head>
+<body>
 
-<!-- JavaScript to trigger the "Thank You" animation -->
-<script>
-  // Wait for the document to load before showing the message
-  window.onload = function() {
-    // After the page is loaded, display the "Thank You" message
-    setTimeout(function() {
-      document.querySelector('.thank-you-message').style.display = 'block';
-    }, 3000); // Show after 3 seconds (after portfolio section)
-  }
-</script>
+  <!-- Portfolio Section -->
+  <h3 align="center">My Portfolio</h3>
+  <p align="center">
+    <a href="https://portfolio-ashif-mahmuds-projects.vercel.app/" target="_blank">
+      <img src="https://via.placeholder.com/600x400" alt="Portfolio Preview" width="600" />
+    </a>
+  </p>
+
+  <!-- Animation for the "Thank You" message after Portfolio -->
+  <h3 class="thank-you-message">Thank you for visiting my profile! 🙏</h3>
+
+  <!-- JavaScript to trigger the "Thank You" animation -->
+  <script>
+    // Wait for the document to load before showing the message
+    window.onload = function() {
+      // After the page is loaded, display the "Thank You" message
+      setTimeout(function() {
+        document.querySelector('.thank-you-message').style.display = 'block';
+      }, 3000); // Show after 3 seconds (after portfolio section)
+    }
+  </script>
+
+</body>
+</html>
