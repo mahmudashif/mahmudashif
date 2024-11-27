@@ -57,10 +57,21 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudashif&show_icons=true&locale=en&layout=compact" alt="mahmudashif" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudashif&show_icons=true&locale=en" alt="mahmudashif" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudashif&" alt="mahmudashif" /></p>
+<h3 align="center">GitHub Stats 📊</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudashif&show_icons=true&locale=en&theme=radical" alt="mahmudashif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudashif&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudashif&theme=radical" alt="GitHub Streak" width="400" />
+</p>
+
+<h3 align="center">Let's connect and grow together! 🚀</h3>
 
 <h3>GitHub Contribution Graph:</h3>
 
