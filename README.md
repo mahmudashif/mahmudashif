@@ -77,21 +77,3 @@
 <h3 align="center">Let's connect and grow together! 🚀</h3>
 
 ![Ashif's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark)
-
-## 🌐 My Portfolio
-
-<p align="center">
-  <a href="https://portfolio-ashif-mahmuds-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="My Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://portfolio-ashif-mahmuds-projects.vercel.app/" target="_blank">
-    <img src="https://via.placeholder.com/800x400.png?text=Portfolio+Preview" alt="Portfolio Preview" />
-  </a>
-</p>
-
-### 🚀 Explore my portfolio to check out the latest projects, technologies, and design trends I’ve worked with. Feel free to browse through my work!
-### Thank you for visiting my profile! 🙏
-![Thank You GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.textstudio.com%2Fsentence-logos%2Fanimated%2Fthank-you-17521&psig=AOvVaw0mQZin5ISRp1UexYaGUyZs&ust=1732819105474000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDM6fyU_YkDFQAAAAAdAAAAABAE)
