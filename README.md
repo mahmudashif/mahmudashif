@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashif Mahmud</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
-<img src="https://media.giphy.co731K/giphy.gif" width="300px" align="right" alt="">
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 - 🌱 I’m currently learning **Backend Development, Web Development**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/mahmudashif)  
 - 💬 Ask me about **React, Next.js, JavaScript, HTML, CSS, Tailwind**  
 - 📫 How to reach me: **mdamahmud2000@gmail.com**  
+- 🖥️ Check out my portfolio: [My Portfolio](https://portfolio-ashif-mahmuds-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,7 +51,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -74,6 +75,13 @@
   </p>
 </div>
 
-<h3 align="center">Let's connect and grow together! 🚀</h3>
+<h3 align="center">GitHub Contribution Graph 📊</h3>
 
-![Ashif's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark)
+<!-- Wrapper for the contribution graph with animation -->
+<div class="stats-wrapper">
+  <p align="center" class="animated-stats">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark" alt="Ashif's GitHub Contribution Graph" width="600" height="350" />
+  </p>
+</div>
+
+<h3 align="center">Let's connect and grow together! 🚀</h3>
