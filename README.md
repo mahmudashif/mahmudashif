@@ -62,6 +62,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudashif&show_icons=true&locale=en" alt="mahmudashif" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudashif&" alt="mahmudashif" /></p>
 
-<h3>GitHub Contribution Graph</h3>
+<h3>GitHub Contribution Graph:</h3>
 
 ![Ashif's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark)
+
+<h3>Profile Views:</h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahmudashif)
