@@ -94,4 +94,4 @@
 
 ### 🚀 Explore my portfolio to check out the latest projects, technologies, and design trends I’ve worked with. Feel free to browse through my work!
 ### Thank you for visiting my profile! 🙏
-![Thank You GIF](https://media.giphy.com/media/xyz1234567890/giphy.gif)
+![Thank You GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.textstudio.com%2Fsentence-logos%2Fanimated%2Fthank-you-17521&psig=AOvVaw0mQZin5ISRp1UexYaGUyZs&ust=1732819105474000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDM6fyU_YkDFQAAAAAdAAAAABAE)
