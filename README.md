@@ -66,37 +66,18 @@
 
 ![Ashif's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark)
 
-<h3 align="center">Some of My Projects:</h3>
+## 🌐 My Portfolio
 
-<!-- Example of Repos using Badges -->
 <p align="center">
-  <a href="https://github.com/mahmudashif/project-1" target="_blank">
-    <img src="https://img.shields.io/badge/Project%201-Repo-green" alt="Project 1" />
-  </a>
-  <a href="https://github.com/mahmudashif/project-2" target="_blank">
-    <img src="https://img.shields.io/badge/Project%202-Repo-blue" alt="Project 2" />
-  </a>
-  <a href="https://github.com/mahmudashif/project-3" target="_blank">
-    <img src="https://img.shields.io/badge/Project%203-Repo-purple" alt="Project 3" />
+  <a href="https://portfolio-ashif-mahmuds-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="My Portfolio" />
   </a>
 </p>
 
-<!-- Example with Descriptions -->
-<h4 align="center">Here are some of my GitHub projects:</h4>
-<ul align="center">
-  <li>
-    <a href="https://github.com/mahmudashif/project-1" target="_blank">
-      <strong>Project 1</strong>: A web application that allows users to manage tasks with a clean interface and user authentication.
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/mahmudashif/project-2" target="_blank">
-      <strong>Project 2</strong>: A social media app built with React and Firebase to connect users in real-time.
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/mahmudashif/project-3" target="_blank">
-      <strong>Project 3</strong>: An e-commerce platform using Next.js with dynamic product listings and shopping cart functionality.
-    </a>
-  </li>
-</ul>
+<p align="center">
+  <a href="https://portfolio-ashif-mahmuds-projects.vercel.app/" target="_blank">
+    <img src="https://via.placeholder.com/800x400.png?text=Portfolio+Preview" alt="Portfolio Preview" />
+  </a>
+</p>
+
+### 🚀 Explore my portfolio to check out the latest projects, technologies, and design trends I’ve worked with. Feel free to browse through my work!
