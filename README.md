@@ -69,3 +69,7 @@
 <h3>Profile Views:</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmudashif)
+
+<h3>Recent Activity & Tech Usage:</h3>
+
+![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark)
