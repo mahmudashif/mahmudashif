@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ravi Gupta</h1>
-<h3 align="center">A passionate software Developer Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Ashif Mahmud</h1>
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
-- 🌱 I’m currently learning **DSA, Web developement**
+- 🌱 I’m currently learning "Backend Development"
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ravi-gupta-44bb451b1/](https://www.linkedin.com/in/ravi-gupta-44bb451b1/)
 
