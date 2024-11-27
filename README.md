@@ -66,11 +66,37 @@
 
 ![Ashif's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark)
 
-<h3>Profile Views:</h3>
+<h3 align="center">Some of My Projects:</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahmudashif)
+<!-- Example of Repos using Badges -->
+<p align="center">
+  <a href="https://github.com/mahmudashif/project-1" target="_blank">
+    <img src="https://img.shields.io/badge/Project%201-Repo-green" alt="Project 1" />
+  </a>
+  <a href="https://github.com/mahmudashif/project-2" target="_blank">
+    <img src="https://img.shields.io/badge/Project%202-Repo-blue" alt="Project 2" />
+  </a>
+  <a href="https://github.com/mahmudashif/project-3" target="_blank">
+    <img src="https://img.shields.io/badge/Project%203-Repo-purple" alt="Project 3" />
+  </a>
+</p>
 
-<h3>Recent Activity & Tech Usage:</h3>
-
-<!-- Top Languages Card -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudashif&show_icons=true&locale=en&layout=compact&hide_title=true" alt="Top Languages" /></p>
+<!-- Example with Descriptions -->
+<h4 align="center">Here are some of my GitHub projects:</h4>
+<ul align="center">
+  <li>
+    <a href="https://github.com/mahmudashif/project-1" target="_blank">
+      <strong>Project 1</strong>: A web application that allows users to manage tasks with a clean interface and user authentication.
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/mahmudashif/project-2" target="_blank">
+      <strong>Project 2</strong>: A social media app built with React and Firebase to connect users in real-time.
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/mahmudashif/project-3" target="_blank">
+      <strong>Project 3</strong>: An e-commerce platform using Next.js with dynamic product listings and shopping cart functionality.
+    </a>
+  </li>
+</ul>
