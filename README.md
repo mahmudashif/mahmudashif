@@ -59,7 +59,7 @@
 
 <h3 align="center">GitHub Stats 📊</h3>
 
-<!-- Wrapper for animation -->
+<!-- Wrapper for the stats with animation -->
 <div class="stats-wrapper">
   <p align="center" class="animated-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=mahmudashif&show_icons=true&locale=en&theme=radical" alt="mahmudashif" width="400" />
@@ -78,31 +78,34 @@
 
 <!-- Style block to include the animation -->
 <style>
-  /* Wrapping div for animation effect */
+  /* Wrapper for the stats with flex layout and animation */
   .stats-wrapper {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
     flex-wrap: wrap;
-    animation: slideIn 3s ease-in-out infinite alternate;
+    animation: slideIn 4s ease-in-out infinite alternate;
   }
 
-  /* Animation keyframes for sliding effect */
+  /* Animation for sliding effect (left to right) */
   @keyframes slideIn {
     0% {
       transform: translateX(-10px);
     }
-    100% {
+    50% {
       transform: translateX(10px);
+    }
+    100% {
+      transform: translateX(-10px);
     }
   }
 
-  /* Animation for each individual stats block */
+  /* Animation for each stat (fade in effect) */
   .animated-stats {
-    animation: fadeIn 2s ease-out;
+    animation: fadeIn 2s ease-out 1s forwards;
   }
 
-  /* Fade-in effect */
+  /* Fade-in effect for images */
   @keyframes fadeIn {
     0% {
       opacity: 0;
@@ -112,6 +115,7 @@
     }
   }
 </style>
+
 
 <h3>GitHub Contribution Graph:</h3>
 
