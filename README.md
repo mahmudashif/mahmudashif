@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashif Mahmud</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+<img src="https://media.giphy.co731K/giphy.gif" width="300px" align="right" alt="">
 
 - 🌱 I’m currently learning **Backend Development, Web Development**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/mahmudashif)  
