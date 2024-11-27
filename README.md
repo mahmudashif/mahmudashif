@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashif Mahmud</h1>
-<h3 align="center">A passionate Software Developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 - 🌱 I’m currently learning **Backend Development, Web Development**  
@@ -72,4 +72,5 @@
 
 <h3>Recent Activity & Tech Usage:</h3>
 
-![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark)
+<!-- Top Languages Card -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudashif&show_icons=true&locale=en&layout=compact&hide_title=true" alt="Top Languages" /></p>
