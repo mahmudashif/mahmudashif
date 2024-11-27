@@ -59,19 +59,59 @@
 
 <h3 align="center">GitHub Stats 📊</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudashif&show_icons=true&locale=en&theme=radical" alt="mahmudashif" width="400" />
-</p>
+<!-- Wrapper for animation -->
+<div class="stats-wrapper">
+  <p align="center" class="animated-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahmudashif&show_icons=true&locale=en&theme=radical" alt="mahmudashif" width="400" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudashif&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400" />
-</p>
+  <p align="center" class="animated-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudashif&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudashif&theme=radical" alt="GitHub Streak" width="400" />
-</p>
+  <p align="center" class="animated-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudashif&theme=radical" alt="GitHub Streak" width="400" />
+  </p>
+</div>
 
 <h3 align="center">Let's connect and grow together! 🚀</h3>
+
+<!-- Style block to include the animation -->
+<style>
+  /* Wrapping div for animation effect */
+  .stats-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    animation: slideIn 3s ease-in-out infinite alternate;
+  }
+
+  /* Animation keyframes for sliding effect */
+  @keyframes slideIn {
+    0% {
+      transform: translateX(-10px);
+    }
+    100% {
+      transform: translateX(10px);
+    }
+  }
+
+  /* Animation for each individual stats block */
+  .animated-stats {
+    animation: fadeIn 2s ease-out;
+  }
+
+  /* Fade-in effect */
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
 
 <h3>GitHub Contribution Graph:</h3>
 
