@@ -60,23 +60,22 @@
 <h3 align="center">GitHub Stats 📊</h3>
 
 <!-- Wrapper for the stats with animation -->
-<div class="stats-wrapper">
-  <p align="center" class="animated-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mahmudashif&show_icons=true&locale=en&theme=radical" alt="mahmudashif" width="600" height="350" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudashif&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="600" height="350" />
+</p>
 
-  <p align="center" class="animated-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudashif&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" height="350" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudashif&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" height="350" />
+</p>
 
-  <p align="center" class="animated-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudashif&theme=radical" alt="GitHub Streak" width="600" height="350" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudashif&theme=radical&cache=${Date.now()}" alt="GitHub Streak" width="600" height="350" />
+</p>
 
-<h3 align="center">Let's connect and grow together! 🚀</h3>
-
-![Ashif's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark)
+<h3 align="center">Contribution Graph 📈</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudashif&theme=react-dark" alt="GitHub Contribution Graph" width="100%" />
+</p>
 
 <h2 align="center">✨ Thank You for Visiting! ✨</h2>
 <p align="center">
